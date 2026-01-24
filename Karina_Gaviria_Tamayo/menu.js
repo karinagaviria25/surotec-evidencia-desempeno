@@ -12,3 +12,4 @@ import { gestionarCapacidad } from "./ejercicio11.js";
 import { analizarPalabrasProhibidas } from "./ejercicio12.js";
 import { monitorearSensores } from "./ejercicio13.js";
 import { calcularDescuentoLealtad } from "./ejercicio14.js";
+import { filtrarTareasUrgentes } from "./ejercicio15.js";
