@@ -10,3 +10,4 @@ import { calcularNomina } from "./ejercicio9.js";
 import { convertirMoneda } from "./ejercicio10.js";
 import { gestionarCapacidad } from "./ejercicio11.js";
 import { analizarPalabrasProhibidas } from "./ejercicio12.js";
+import { monitorearSensores } from "./ejercicio13.js";
