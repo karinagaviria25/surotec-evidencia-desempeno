@@ -16,3 +16,4 @@ import { filtrarTareasUrgentes } from "./ejercicio15.js";
 import { liquidarAgua } from "./ejercicio16.js";
 import { monitorearTransacciones } from "./ejercicio17.js";
 import { validarPrestamo } from "./ejercicio18.js";
+import { planearRuta } from "./ejercicio19.js";
