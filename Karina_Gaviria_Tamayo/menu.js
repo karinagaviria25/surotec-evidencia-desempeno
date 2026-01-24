@@ -15,3 +15,4 @@ import { calcularDescuentoLealtad } from "./ejercicio14.js";
 import { filtrarTareasUrgentes } from "./ejercicio15.js";
 import { liquidarAgua } from "./ejercicio16.js";
 import { monitorearTransacciones } from "./ejercicio17.js";
+import { validarPrestamo } from "./ejercicio18.js";
